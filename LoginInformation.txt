@@ -1,0 +1,17 @@
+DataBase Information:
+
+Database Name:my_first_website
+Database userName:munni
+Database password: 15303003
+Table prefix: m_
+
+
+Wordpress Dashboard login info:
+Username:munni
+password:15303003@
+
+localhost/project
+localhost/project/admin
+localhost/project/login
+localhost/project/wp-login.php
+
